@@ -8,6 +8,8 @@
 <h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
 
 ###
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ihsaanhardyanto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
