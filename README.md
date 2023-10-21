@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=638182&center=true&vCenter=true&random=false&width=435&height=45&lines=Welcome+%F0%9F%98%8A!!)](https://git.io/typing-svg)
 
 <div>
-<h2 align="left" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
+<h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
 
 ###
 
@@ -48,7 +48,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" alt="Snake animation" />
 
 ###
