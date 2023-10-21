@@ -9,8 +9,8 @@
 <h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
 
 ###
-<!-- <details> -->
-<!-- <summary><samp><b>More Info</b></samp></summary> -->
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ihsaanhardyanto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
