@@ -4,19 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=638182&center=true&vCenter=true&random=false&width=435&height=45&lines=Welcome+%F0%9F%98%8A!!)](https://git.io/typing-svg)
 
+
 <div>
 <h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
 
 ###
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
+<!-- <details> -->
+<!-- <summary><samp><b>More Info</b></samp></summary> -->
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsaanhardyanto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ihsaanhardyanto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+##
 
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1059270404616757258/1165318293620523188/download.gif?ex=65466a3b&is=6533f53b&hm=e0868d4c027d08eb735fcf8a7694a8705008f5e444e2a11be5075ee5796463c2&"  />
 
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -47,8 +46,14 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-###
+##
 
 <br clear="both">
+
+###
+
+<!-- 
+--- Inprogress ---
+<img src="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" alt="Snake animation" /> -->
 
 ###
