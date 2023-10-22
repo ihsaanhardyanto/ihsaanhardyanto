@@ -4,14 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=638182&center=true&vCenter=true&random=false&width=435&height=45&lines=Welcome+%F0%9F%98%8A!!)](https://git.io/typing-svg)
 
-
 <div>
 <h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
 
 ###
+
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 <br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ihsaanhardyanto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -46,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
-
 ###
 
 <h3 align="left">Connect with me</h3>
@@ -54,7 +54,7 @@
 ###
 
 <div align="left">
-  <a href="ihsaan.hardyanto@gmail.com" target="_blank">
+  <a href="mailto:ihsaan.hardyanto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ihsaan-h-88bb72253/" target="_blank">
@@ -70,6 +70,8 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" />
+</picture>
