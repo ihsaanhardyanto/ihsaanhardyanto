@@ -75,3 +75,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg" />
 </picture>
+
+![Snake animation](https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://raw.githubusercontent.com/ihsaanhardyanto/ihsaanhardyanto/output/snake.svg)
