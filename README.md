@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -68,11 +68,9 @@
   </a>
 </div>
 
-###
-
 ##
 
-<br clear="both">
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1059270404616757258/1165318293620523188/download.gif?ex=65466a3b&is=6533f53b&hm=e0868d4c027d08eb735fcf8a7694a8705008f5e444e2a11be5075ee5796463c2&"  />
 
 ###
 
