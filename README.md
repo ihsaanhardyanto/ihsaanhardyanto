@@ -6,7 +6,7 @@
 
 
 <div>
-<h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto , and I'm an undergraduate student 🤓..</h2>
+<h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto</h2>
 
 ###
 <details>
