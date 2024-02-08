@@ -2,9 +2,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/1059270404616757258/1165261399832936528/corpse-corpse-husband.gif?ex=6546353f&is=6533c03f&hm=7b9090df1e9cc3c0f3c5bc99baabac9fc518abd93a42ac3d6191f3683227842e&width=2249&height=750"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=638182&center=true&vCenter=true&random=false&width=435&height=45&lines=Welcome+%F0%9F%98%8A!!)](https://git.io/typing-svg)
-
-
 <div>
 <h2 align="center" style="color: #638182FF";>Hi 👋! <br>I'm Ihsaan Hardyanto</h2>
 
