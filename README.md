@@ -58,17 +58,21 @@
 ### Github Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsaanhardyanto&theme=gotham&hide_border=false" alt="GitHub Streak Stats" width="50%" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsaanhardyanto&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsaanhardyanto&theme=gotham&hide_border=false" alt="GitHub Streak Stats" width="50%" height="50%" style="display: inline-block; margin-right: 4px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsaanhardyanto&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"   height="180" style="display: inline-block;" />
 </div>
 
 ###
 
 <!-- Profile Visitor  -->
-<!-- ![pv](https://pageview.vercel.app/?github_user=ihsaanhardyanto) -->
-
 <div align="left">
 
-[![](https://visitcount.itsvg.in/api?id=ihsaanhardyanto&icon=5&color=0)](https://visitcount.itsvg.in)
+<!-- Markdown Style -->
+<!-- [![](https://visitcount.itsvg.in/api?id=ihsaanhardyanto&label=Visitors&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+
+<!-- HTML / Framework Style -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ihsaanhardyanto&label=Visitors&color=8&icon=5&pretty=true" />
+</a>
 
 </div>
