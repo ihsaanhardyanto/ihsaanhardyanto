@@ -5,8 +5,8 @@
 | Role                        | Company                                                         | Time                |
 | --------------------------- | --------------------------------------------------------------- | ------------------- |
 | Software Engineering Intern | [OPPO Manufacturing Indonesia](https://www.oppo.com/id/)        | May 2026 - Present  |
-| Full Stack Developer Intern        | [Hyundai Autoever Indonesia](https://www.hyundai-autoever.com/) | Sep 2025 - Feb 2026 |
-| Frontend Developer Intern          | [OLX Indonesia](https://www.olx.co.id/)                         | Feb 2025 - Aug 2025 |
+| Full Stack Developer Intern | [Hyundai Autoever Indonesia](https://www.hyundai-autoever.com/) | Sep 2025 - Feb 2026 |
+| Frontend Developer Intern   | [OLX Indonesia](https://www.olx.co.id/)                         | Feb 2025 - Aug 2025 |
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
@@ -16,10 +16,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-end Technologies
 
@@ -34,8 +32,8 @@
 
 ### Back-end Technologies
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
